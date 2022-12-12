@@ -1,8 +1,7 @@
-- 👋 Salutations, malefactors! I'm @codenamerey
-- 👀 I’m interested in coding of course, and anything techy
-- 🌱 I’m currently learning all sorts of computer-related stuff which I am aware my pitiful brain cannot comprehend as of yet, with the overwhelming amount of info.
+# Hello!
+I am going by the pseudonym codenamerey here on Github. In real life, I am Lee. Right now, I am learning React and Test-Driven Development. It's a bit challenging, but hey, I like challenges!
 
-<!---
-codenamerey/codenamerey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check out my repositories to see some of my works!
+
+'Til next README.md update,
+codenamerey (Lee)
