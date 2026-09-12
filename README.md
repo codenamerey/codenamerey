@@ -1,10 +1,11 @@
-# Hello!
-I am going by the pseudonym codenamerey here on Github. In real life, I am Lee. 
+Hey there, my name is Lee Ryan.
 
-Right now, I am learning a plethora of subjects: machine learning, digital signal processing, and physics! They're challenging, but hey, I like challenges!
+I write software, for fun and for work. Been since 2020, pre-AI, so you can count on me when I say I understand code.
 
-Check out my repositories to see some of my works!
+To save you some time, here are some of my best works hosted on Github, written by hand (no AI):
 
-'Til next README.md update,
+### Pass the message
+- This is an anonymous messaging application, a copycat of [Sarahah](https://en.wikipedia.org/wiki/Sarahah).
+- This has a Next.JS frontend and NestJS backend in a monorepo architecture.
 
-codenamerey (Lee)
+\# Readme is a work in progress!
